@@ -1,1 +1,1 @@
-# COM-5170-Wureless-Communication-System_Rayleigh-Ricean
+# COM-5170-Wureless-Communication-System_Rayleigh
